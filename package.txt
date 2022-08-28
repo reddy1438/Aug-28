@@ -1,0 +1,13 @@
+package.json:
+
+It contains basic information about the project.	
+It is mandatory for every project.
+It records important metadata about the project.	
+It contains information such as name, description, author, script, and dependencies.
+
+Package-lock.json:
+
+It describes the exact tree that was generated to allow subsequent installs to have the identical tree.
+It is automatically generated for those operations where npm modifies either node_modules tree or package.json.
+It allows future devs to install the same dependencies in the project.	
+It contains the name, dependencies, and locked version of the project. 

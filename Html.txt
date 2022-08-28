@@ -1,0 +1,2 @@
+It takes the reusability of JavaScript functions, but allows us to use them like they were HTML.
+React applications are usually built around a single HTML element.

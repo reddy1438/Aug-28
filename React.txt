@@ -1,0 +1,11 @@
+React as library:
+
+1.Follows the UNIX philosophy “Make each program do one thing well”. And that’s exactly what to expect from a library like React: it does one thing and it does it well.
+2.React can be easily plugged into an existing technology stack - and that’s the definition of a library.
+3.React can be easily swapped by some other javascript library offering similar functionalities.
+
+React as framework:
+
+1.React and the few libraries that are around it’s ecosystem such as React Navigation offer all the tools required to build a client-side application most of the time.
+2.Because of its state and lifecycle on the components you inverted the control to React.
+3.Related libraries must work in an opinionated way.
